@@ -62,4 +62,4 @@ Make sure you create a 'languages' folder in your theme folder containing the .m
 * Fix of bug in redirections between translated pages and prefixes to avoid repeated pages with the same content.
 * Fix ob bug creating the links of the laguage switch. Some linkes used to not be created properly.
 * Fix of bug in the selection of translations for a post. All the available translations used to not be loaded.
-* Addition of Estonian language(et) as abreviation for et_EE.
+* Addition of Estonian language(et) as abbreviation for et_EE.
